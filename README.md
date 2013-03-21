@@ -1,7 +1,7 @@
 Dotfiles
 ========
 
-Customized, version of the dotfiles available from [paulirish](https://github.com/paulirish/dotfiles) and [mathiasbynens](https://github.com/mathiasbynens/dotfiles/).
+Customized, scaled-down, versions of the dotfiles available from [paulirish](https://github.com/paulirish/dotfiles) and [mathiasbynens](https://github.com/mathiasbynens/dotfiles/).
 
 Private configuration
 =====================
@@ -17,3 +17,14 @@ PATH=$PATH:~/stuff
 
 export PATH
 ```
+
+Homebrew
+========
+
+The `.brew` file should be run as a stand-alone app, after installing [Homebrew](http://mxcl.github.com/homebrew/).
+
+
+OS X
+====
+
+Run `.osx` on a new version of OS X for some minor tweaks and fixes, which'll make your life easier.
