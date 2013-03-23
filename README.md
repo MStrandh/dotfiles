@@ -28,8 +28,7 @@ OS X
 
 Run `.osx` on a new version of OS X for some minor tweaks and fixes, which'll make your life easier.
 
-SUBLIME TEXT 2 ADD-ONS
-======================
+### Sublime Text 2 Add-ons
 
 PACKAGE CONTROL
 ---------------
