@@ -10,6 +10,7 @@ brew upgrade
 
 brew install git
 brew install tree
+brew install node
 
 # Remove outdated versions
 brew cleanup
