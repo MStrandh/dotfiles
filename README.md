@@ -2,6 +2,10 @@
 
 This repository contains my dotfiles and some minor instructions on how to set things up. I also included a list of my most commonly used Sublime Text add-ons.
 
+### Terminal
+
+This terminal color scheme works well with the "Solarized Color Scheme" I use in Sublime Text: https://github.com/tomislav/osx-lion-terminal.app-colors-solarized
+
 ## Dotfiles
 
 Customized, scaled-down, versions of the dotfiles available from [paulirish](https://github.com/paulirish/dotfiles/) and [mathiasbynens](https://github.com/mathiasbynens/dotfiles/).
@@ -41,8 +45,14 @@ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
 git clone -b devel git://github.com/dz0ny/LiveReload-sublimetext2.git LiveReload
 ```
 
+### Solarized Color Scheme
+Installed through Package Control.
+
 ### Emmet
 Installed through Package Control.
 
 ### Sublime Linter
+Installed through Package Control.
+
+### Color Highlighter
 Installed through Package Control.
